@@ -32,7 +32,7 @@ Programa voltado a listar os usuários com os maiores commits do projeto braspag
 
     Sobre o arquivo .txt:
 
-    Foi utilizado um algoritmo de introdução manual de dados sobre cada commiter e seus dados individuais sobre cada um. O mesmo se encontra no arquivo projeto-dinda.rb,usandoo arquivo lista.rb de exemplo.
+    Foi utilizado um algoritmo de introdução manual de dados sobre cada commiter e seus dados individuais requiridos dos mesmos. O mesmo se encontra no arquivo projeto-dinda.rb,usandoo arquivo lista.rb de exemplo.
 
 
     Desenvolvido por: Danilo Calderon.
