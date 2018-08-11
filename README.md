@@ -7,15 +7,15 @@ Programa voltado a listar os usuários com os maiores commits do projeto braspag
 
   - RANK LIST -
     COMMITS -
-    1 - ANTONIO FILHO - 66
-    2 - PMATIELLO - 10
-    3 - DANIELCOCA - 8
-    4 - MARCIOTOSHIRO - 4
-    5 - KASSIO- 3
-    6 - J133Y - 2
-    7 - BVICENZO - 2
-    8 - RBRANCHER - 1
-    9 - LUCASMAZZA - 1
+    1º - ANTONIO FILHO - 66 commits
+    2º - PMATIELLO - 10 commits
+    3º - DANIELCOCA - 8 commits
+    4º - MARCIOTOSHIRO - 4 commits
+    5º - KASSIO- 3 commits
+    6º - J133Y - 2 commits
+    7º - BVICENZO - 2 commits
+    8º - RBRANCHER - 1 commit
+    9º - LUCASMAZZA - 1 commit
 
     Atenção:
 
